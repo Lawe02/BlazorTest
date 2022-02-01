@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 60435455,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Counter",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1112980309,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Counter",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -891376953,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.FetchData",
@@ -107,6 +74,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorApp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1804116168,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Counter",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 654093380,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Counter",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -807309595,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Todo",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 2134079007,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Todo",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16625,6 +16678,11 @@
       "FilePath": "c:\\Users\\Lawe Zangena\\BlazorApp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lawe Zangena\\BlazorApp\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\Lawe Zangena\\BlazorApp\\Shared\\SurveyPrompt.razor",
